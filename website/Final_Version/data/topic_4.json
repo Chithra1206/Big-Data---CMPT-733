@@ -1,0 +1,1651 @@
+{
+ "nodes": [
+  {
+   "id": 10762639,
+   "group": 10,
+   "label": "Toronto faces spectre of another missed chance to rebuild transit"
+  },
+  {
+   "id": 11844156,
+   "group": 10,
+   "label": "Toronto council's non-decision on transit a selfish dereliction of duty"
+  },
+  {
+   "id": 12821569,
+   "group": 10,
+   "label": "Toronto Mayor Ford is justifiably angry over Sousa's blindside move"
+  },
+  {
+   "id": 12893839,
+   "group": 10,
+   "label": "Public transit is better, but cars are faster"
+  },
+  {
+   "id": 13295395,
+   "group": 10,
+   "label": "Marcus Gee: With Toronto subway decision, Rob Ford finds the good in taxes"
+  },
+  {
+   "id": 13325277,
+   "group": 10,
+   "label": "Who killed Detroit? Not who you think"
+  },
+  {
+   "id": 13702405,
+   "group": 10,
+   "label": "Toronto really is superior to Vancouver"
+  },
+  {
+   "id": 14394647,
+   "group": 10,
+   "label": "Rob Ford is right. Subways are best for Toronto"
+  },
+  {
+   "id": 14470953,
+   "group": 10,
+   "label": "Ford's subway is crowded with caveats"
+  },
+  {
+   "id": 15240629,
+   "group": 10,
+   "label": "Want solutions to Rob Ford malaise? Learn from south of the border"
+  },
+  {
+   "id": 15435340,
+   "group": 10,
+   "label": "Brazen and dishonest, Rob Ford defies belief"
+  },
+  {
+   "id": 15777188,
+   "group": 10,
+   "label": "Critics of Porter's plan for jets at Toronto island airport are way off course"
+  },
+  {
+   "id": 17499679,
+   "group": 10,
+   "label": "Is Olivia Chow more like de Blasio or Bloomberg?"
+  },
+  {
+   "id": 17502979,
+   "group": 10,
+   "label": "Olivia Chow is a strong candidate. She'll need to get stronger"
+  },
+  {
+   "id": 17676493,
+   "group": 10,
+   "label": "To all those foes of jets at Toronto Island airport: The sky isn't falling"
+  },
+  {
+   "id": 21147510,
+   "group": 10,
+   "label": "Globe editorial board endorsement: John Tory is Toronto's best bet"
+  },
+  {
+   "id": 23320311,
+   "group": 10,
+   "label": "Will Vancouver think big on transit?"
+  },
+  {
+   "id": 23760947,
+   "group": 10,
+   "label": "Saying no to B.C. transit growth is a vote against young Canadians"
+  },
+  {
+   "id": 24214151,
+   "group": 10,
+   "label": "Asia doesn't vote for subways, it builds them"
+  },
+  {
+   "id": 25343745,
+   "group": 10,
+   "label": "Yes to Uber. No to taxi cartels"
+  },
+  {
+   "id": 26431481,
+   "group": 10,
+   "label": "Yes, Canadian drivers, you should have to pay road tolls"
+  },
+  {
+   "id": 27779111,
+   "group": 10,
+   "label": "Uber ups the ante. So what's the TTC going to do about it?"
+  },
+  {
+   "id": 28708468,
+   "group": 10,
+   "label": "How Toronto got a 'world-class,' gold-plated, half-billion-dollar empty train"
+  },
+  {
+   "id": 28730533,
+   "group": 10,
+   "label": "A crisis in Vancouver: The lifeblood of the city is leaving"
+  },
+  {
+   "id": 29266448,
+   "group": 10,
+   "label": "Why give drivers a free ride? Bring on the road tolls"
+  },
+  {
+   "id": 29299300,
+   "group": 10,
+   "label": "Why the federal budget should include a cash infusion for big-city transit"
+  },
+  {
+   "id": 8981162,
+   "group": 10,
+   "label": "Doug Saunders: The world wants Vancouverism. Shouldn't Canada?"
+  },
+  {
+   "id": "4_10762639",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_10762639",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "8_10762639",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "5_10762639",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "6_10762639",
+   "group": "6",
+   "label": ""
+  },
+  {
+   "id": "4_11844156",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_11844156",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "5_11844156",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "8_11844156",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "1_12821569",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "4_12821569",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "8_12821569",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "5_12821569",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "4_12893839",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "8_12893839",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "5_12893839",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "0_12893839",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "3_12893839",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "4_13295395",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_13295395",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "8_13295395",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "5_13295395",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "4_13325277",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "7_13325277",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "1_13325277",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "8_13325277",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "5_13325277",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "0_13325277",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "3_13325277",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "4_13702405",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "8_13702405",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "7_13702405",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "1_13702405",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_13702405",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "9_13702405",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "3_13702405",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "4_14394647",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_14394647",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "8_14394647",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "5_14394647",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "0_14394647",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "9_14394647",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "4_14470953",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_14470953",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "5_14470953",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "1_15240629",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "8_15240629",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "4_15240629",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "3_15240629",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "7_15240629",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "0_15240629",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "9_15240629",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "1_15435340",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_15435340",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "8_15435340",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "9_15435340",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "3_15435340",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "4_15435340",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "4_15777188",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "2_15777188",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "1_15777188",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "8_15777188",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "5_15777188",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "0_15777188",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "3_15777188",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "1_17499679",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "4_17499679",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "8_17499679",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "7_17499679",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "5_17499679",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "0_17499679",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "9_17499679",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "1_17502979",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "4_17502979",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "8_17502979",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "3_17502979",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "7_17502979",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "5_17502979",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "0_17502979",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "4_17676493",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_17676493",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "2_17676493",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "8_17676493",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "0_17676493",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "9_17676493",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_17676493",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "5_17676493",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "3_17676493",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "1_21147510",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "7_21147510",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "4_21147510",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "8_21147510",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "4_23320311",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_23320311",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "5_23320311",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "8_23320311",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "0_23320311",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "4_23760947",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_23760947",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "5_23760947",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "8_23760947",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "0_23760947",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "4_24214151",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "8_24214151",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "5_24214151",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "1_24214151",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_24214151",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "4_25343745",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "8_25343745",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "0_25343745",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "2_25343745",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "3_25343745",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "5_25343745",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "1_25343745",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "7_25343745",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "4_26431481",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "5_26431481",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "8_26431481",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "0_26431481",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "1_26431481",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "3_26431481",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "4_27779111",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "8_27779111",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "2_27779111",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "0_27779111",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "5_27779111",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "3_27779111",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "4_28708468",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "8_28708468",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "1_28708468",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "5_28708468",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "4_28730533",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "8_28730533",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "5_28730533",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "7_28730533",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "1_28730533",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_28730533",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "9_28730533",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "4_29266448",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "5_29266448",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "0_29266448",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "8_29266448",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "1_29266448",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "3_29266448",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "4_29299300",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_29299300",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "5_29299300",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "8_29299300",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "0_29299300",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "4_8981162",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "8_8981162",
+   "group": "8",
+   "label": ""
+  }
+ ],
+ "links": [
+  {
+   "source": 10762639,
+   "target": "4_10762639",
+   "value": 1
+  },
+  {
+   "source": 10762639,
+   "target": "1_10762639",
+   "value": 1
+  },
+  {
+   "source": 10762639,
+   "target": "8_10762639",
+   "value": 1
+  },
+  {
+   "source": 10762639,
+   "target": "5_10762639",
+   "value": 1
+  },
+  {
+   "source": 10762639,
+   "target": "6_10762639",
+   "value": 1
+  },
+  {
+   "source": 11844156,
+   "target": "4_11844156",
+   "value": 1
+  },
+  {
+   "source": 11844156,
+   "target": "1_11844156",
+   "value": 1
+  },
+  {
+   "source": 11844156,
+   "target": "5_11844156",
+   "value": 1
+  },
+  {
+   "source": 11844156,
+   "target": "8_11844156",
+   "value": 1
+  },
+  {
+   "source": 12821569,
+   "target": "1_12821569",
+   "value": 1
+  },
+  {
+   "source": 12821569,
+   "target": "4_12821569",
+   "value": 1
+  },
+  {
+   "source": 12821569,
+   "target": "8_12821569",
+   "value": 1
+  },
+  {
+   "source": 12821569,
+   "target": "5_12821569",
+   "value": 1
+  },
+  {
+   "source": 12893839,
+   "target": "4_12893839",
+   "value": 1
+  },
+  {
+   "source": 12893839,
+   "target": "8_12893839",
+   "value": 1
+  },
+  {
+   "source": 12893839,
+   "target": "5_12893839",
+   "value": 1
+  },
+  {
+   "source": 12893839,
+   "target": "0_12893839",
+   "value": 1
+  },
+  {
+   "source": 12893839,
+   "target": "3_12893839",
+   "value": 1
+  },
+  {
+   "source": 13295395,
+   "target": "4_13295395",
+   "value": 1
+  },
+  {
+   "source": 13295395,
+   "target": "1_13295395",
+   "value": 1
+  },
+  {
+   "source": 13295395,
+   "target": "8_13295395",
+   "value": 1
+  },
+  {
+   "source": 13295395,
+   "target": "5_13295395",
+   "value": 1
+  },
+  {
+   "source": 13325277,
+   "target": "4_13325277",
+   "value": 1
+  },
+  {
+   "source": 13325277,
+   "target": "7_13325277",
+   "value": 1
+  },
+  {
+   "source": 13325277,
+   "target": "1_13325277",
+   "value": 1
+  },
+  {
+   "source": 13325277,
+   "target": "8_13325277",
+   "value": 1
+  },
+  {
+   "source": 13325277,
+   "target": "5_13325277",
+   "value": 1
+  },
+  {
+   "source": 13325277,
+   "target": "0_13325277",
+   "value": 1
+  },
+  {
+   "source": 13325277,
+   "target": "3_13325277",
+   "value": 1
+  },
+  {
+   "source": 13702405,
+   "target": "4_13702405",
+   "value": 1
+  },
+  {
+   "source": 13702405,
+   "target": "8_13702405",
+   "value": 1
+  },
+  {
+   "source": 13702405,
+   "target": "7_13702405",
+   "value": 1
+  },
+  {
+   "source": 13702405,
+   "target": "1_13702405",
+   "value": 1
+  },
+  {
+   "source": 13702405,
+   "target": "0_13702405",
+   "value": 1
+  },
+  {
+   "source": 13702405,
+   "target": "9_13702405",
+   "value": 1
+  },
+  {
+   "source": 13702405,
+   "target": "3_13702405",
+   "value": 1
+  },
+  {
+   "source": 14394647,
+   "target": "4_14394647",
+   "value": 1
+  },
+  {
+   "source": 14394647,
+   "target": "1_14394647",
+   "value": 1
+  },
+  {
+   "source": 14394647,
+   "target": "8_14394647",
+   "value": 1
+  },
+  {
+   "source": 14394647,
+   "target": "5_14394647",
+   "value": 1
+  },
+  {
+   "source": 14394647,
+   "target": "0_14394647",
+   "value": 1
+  },
+  {
+   "source": 14394647,
+   "target": "9_14394647",
+   "value": 1
+  },
+  {
+   "source": 14470953,
+   "target": "4_14470953",
+   "value": 1
+  },
+  {
+   "source": 14470953,
+   "target": "1_14470953",
+   "value": 1
+  },
+  {
+   "source": 14470953,
+   "target": "5_14470953",
+   "value": 1
+  },
+  {
+   "source": 15240629,
+   "target": "1_15240629",
+   "value": 1
+  },
+  {
+   "source": 15240629,
+   "target": "8_15240629",
+   "value": 1
+  },
+  {
+   "source": 15240629,
+   "target": "4_15240629",
+   "value": 1
+  },
+  {
+   "source": 15240629,
+   "target": "3_15240629",
+   "value": 1
+  },
+  {
+   "source": 15240629,
+   "target": "7_15240629",
+   "value": 1
+  },
+  {
+   "source": 15240629,
+   "target": "0_15240629",
+   "value": 1
+  },
+  {
+   "source": 15240629,
+   "target": "9_15240629",
+   "value": 1
+  },
+  {
+   "source": 15435340,
+   "target": "1_15435340",
+   "value": 1
+  },
+  {
+   "source": 15435340,
+   "target": "0_15435340",
+   "value": 1
+  },
+  {
+   "source": 15435340,
+   "target": "8_15435340",
+   "value": 1
+  },
+  {
+   "source": 15435340,
+   "target": "9_15435340",
+   "value": 1
+  },
+  {
+   "source": 15435340,
+   "target": "3_15435340",
+   "value": 1
+  },
+  {
+   "source": 15435340,
+   "target": "4_15435340",
+   "value": 1
+  },
+  {
+   "source": 15777188,
+   "target": "4_15777188",
+   "value": 1
+  },
+  {
+   "source": 15777188,
+   "target": "2_15777188",
+   "value": 1
+  },
+  {
+   "source": 15777188,
+   "target": "1_15777188",
+   "value": 1
+  },
+  {
+   "source": 15777188,
+   "target": "8_15777188",
+   "value": 1
+  },
+  {
+   "source": 15777188,
+   "target": "5_15777188",
+   "value": 1
+  },
+  {
+   "source": 15777188,
+   "target": "0_15777188",
+   "value": 1
+  },
+  {
+   "source": 15777188,
+   "target": "3_15777188",
+   "value": 1
+  },
+  {
+   "source": 17499679,
+   "target": "1_17499679",
+   "value": 1
+  },
+  {
+   "source": 17499679,
+   "target": "4_17499679",
+   "value": 1
+  },
+  {
+   "source": 17499679,
+   "target": "8_17499679",
+   "value": 1
+  },
+  {
+   "source": 17499679,
+   "target": "7_17499679",
+   "value": 1
+  },
+  {
+   "source": 17499679,
+   "target": "5_17499679",
+   "value": 1
+  },
+  {
+   "source": 17499679,
+   "target": "0_17499679",
+   "value": 1
+  },
+  {
+   "source": 17499679,
+   "target": "9_17499679",
+   "value": 1
+  },
+  {
+   "source": 17502979,
+   "target": "1_17502979",
+   "value": 1
+  },
+  {
+   "source": 17502979,
+   "target": "4_17502979",
+   "value": 1
+  },
+  {
+   "source": 17502979,
+   "target": "8_17502979",
+   "value": 1
+  },
+  {
+   "source": 17502979,
+   "target": "3_17502979",
+   "value": 1
+  },
+  {
+   "source": 17502979,
+   "target": "7_17502979",
+   "value": 1
+  },
+  {
+   "source": 17502979,
+   "target": "5_17502979",
+   "value": 1
+  },
+  {
+   "source": 17502979,
+   "target": "0_17502979",
+   "value": 1
+  },
+  {
+   "source": 17676493,
+   "target": "4_17676493",
+   "value": 1
+  },
+  {
+   "source": 17676493,
+   "target": "1_17676493",
+   "value": 1
+  },
+  {
+   "source": 17676493,
+   "target": "2_17676493",
+   "value": 1
+  },
+  {
+   "source": 17676493,
+   "target": "8_17676493",
+   "value": 1
+  },
+  {
+   "source": 17676493,
+   "target": "0_17676493",
+   "value": 1
+  },
+  {
+   "source": 17676493,
+   "target": "9_17676493",
+   "value": 1
+  },
+  {
+   "source": 17676493,
+   "target": "7_17676493",
+   "value": 1
+  },
+  {
+   "source": 17676493,
+   "target": "5_17676493",
+   "value": 1
+  },
+  {
+   "source": 17676493,
+   "target": "3_17676493",
+   "value": 1
+  },
+  {
+   "source": 21147510,
+   "target": "1_21147510",
+   "value": 1
+  },
+  {
+   "source": 21147510,
+   "target": "7_21147510",
+   "value": 1
+  },
+  {
+   "source": 21147510,
+   "target": "4_21147510",
+   "value": 1
+  },
+  {
+   "source": 21147510,
+   "target": "8_21147510",
+   "value": 1
+  },
+  {
+   "source": 23320311,
+   "target": "4_23320311",
+   "value": 1
+  },
+  {
+   "source": 23320311,
+   "target": "1_23320311",
+   "value": 1
+  },
+  {
+   "source": 23320311,
+   "target": "5_23320311",
+   "value": 1
+  },
+  {
+   "source": 23320311,
+   "target": "8_23320311",
+   "value": 1
+  },
+  {
+   "source": 23320311,
+   "target": "0_23320311",
+   "value": 1
+  },
+  {
+   "source": 23760947,
+   "target": "4_23760947",
+   "value": 1
+  },
+  {
+   "source": 23760947,
+   "target": "1_23760947",
+   "value": 1
+  },
+  {
+   "source": 23760947,
+   "target": "5_23760947",
+   "value": 1
+  },
+  {
+   "source": 23760947,
+   "target": "8_23760947",
+   "value": 1
+  },
+  {
+   "source": 23760947,
+   "target": "0_23760947",
+   "value": 1
+  },
+  {
+   "source": 24214151,
+   "target": "4_24214151",
+   "value": 1
+  },
+  {
+   "source": 24214151,
+   "target": "8_24214151",
+   "value": 1
+  },
+  {
+   "source": 24214151,
+   "target": "5_24214151",
+   "value": 1
+  },
+  {
+   "source": 24214151,
+   "target": "1_24214151",
+   "value": 1
+  },
+  {
+   "source": 24214151,
+   "target": "0_24214151",
+   "value": 1
+  },
+  {
+   "source": 25343745,
+   "target": "4_25343745",
+   "value": 1
+  },
+  {
+   "source": 25343745,
+   "target": "8_25343745",
+   "value": 1
+  },
+  {
+   "source": 25343745,
+   "target": "0_25343745",
+   "value": 1
+  },
+  {
+   "source": 25343745,
+   "target": "2_25343745",
+   "value": 1
+  },
+  {
+   "source": 25343745,
+   "target": "3_25343745",
+   "value": 1
+  },
+  {
+   "source": 25343745,
+   "target": "5_25343745",
+   "value": 1
+  },
+  {
+   "source": 25343745,
+   "target": "1_25343745",
+   "value": 1
+  },
+  {
+   "source": 25343745,
+   "target": "7_25343745",
+   "value": 1
+  },
+  {
+   "source": 26431481,
+   "target": "4_26431481",
+   "value": 1
+  },
+  {
+   "source": 26431481,
+   "target": "5_26431481",
+   "value": 1
+  },
+  {
+   "source": 26431481,
+   "target": "8_26431481",
+   "value": 1
+  },
+  {
+   "source": 26431481,
+   "target": "0_26431481",
+   "value": 1
+  },
+  {
+   "source": 26431481,
+   "target": "1_26431481",
+   "value": 1
+  },
+  {
+   "source": 26431481,
+   "target": "3_26431481",
+   "value": 1
+  },
+  {
+   "source": 27779111,
+   "target": "4_27779111",
+   "value": 1
+  },
+  {
+   "source": 27779111,
+   "target": "8_27779111",
+   "value": 1
+  },
+  {
+   "source": 27779111,
+   "target": "2_27779111",
+   "value": 1
+  },
+  {
+   "source": 27779111,
+   "target": "0_27779111",
+   "value": 1
+  },
+  {
+   "source": 27779111,
+   "target": "5_27779111",
+   "value": 1
+  },
+  {
+   "source": 27779111,
+   "target": "3_27779111",
+   "value": 1
+  },
+  {
+   "source": 28708468,
+   "target": "4_28708468",
+   "value": 1
+  },
+  {
+   "source": 28708468,
+   "target": "8_28708468",
+   "value": 1
+  },
+  {
+   "source": 28708468,
+   "target": "1_28708468",
+   "value": 1
+  },
+  {
+   "source": 28708468,
+   "target": "5_28708468",
+   "value": 1
+  },
+  {
+   "source": 28730533,
+   "target": "4_28730533",
+   "value": 1
+  },
+  {
+   "source": 28730533,
+   "target": "8_28730533",
+   "value": 1
+  },
+  {
+   "source": 28730533,
+   "target": "5_28730533",
+   "value": 1
+  },
+  {
+   "source": 28730533,
+   "target": "7_28730533",
+   "value": 1
+  },
+  {
+   "source": 28730533,
+   "target": "1_28730533",
+   "value": 1
+  },
+  {
+   "source": 28730533,
+   "target": "0_28730533",
+   "value": 1
+  },
+  {
+   "source": 28730533,
+   "target": "9_28730533",
+   "value": 1
+  },
+  {
+   "source": 29266448,
+   "target": "4_29266448",
+   "value": 1
+  },
+  {
+   "source": 29266448,
+   "target": "5_29266448",
+   "value": 1
+  },
+  {
+   "source": 29266448,
+   "target": "0_29266448",
+   "value": 1
+  },
+  {
+   "source": 29266448,
+   "target": "8_29266448",
+   "value": 1
+  },
+  {
+   "source": 29266448,
+   "target": "1_29266448",
+   "value": 1
+  },
+  {
+   "source": 29266448,
+   "target": "3_29266448",
+   "value": 1
+  },
+  {
+   "source": 29299300,
+   "target": "4_29299300",
+   "value": 1
+  },
+  {
+   "source": 29299300,
+   "target": "1_29299300",
+   "value": 1
+  },
+  {
+   "source": 29299300,
+   "target": "5_29299300",
+   "value": 1
+  },
+  {
+   "source": 29299300,
+   "target": "8_29299300",
+   "value": 1
+  },
+  {
+   "source": 29299300,
+   "target": "0_29299300",
+   "value": 1
+  },
+  {
+   "source": 8981162,
+   "target": "4_8981162",
+   "value": 1
+  },
+  {
+   "source": 8981162,
+   "target": "8_8981162",
+   "value": 1
+  }
+ ]
+}

@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<!--<meta charset="utf-8">-->
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<!--<script src="https://d3js.org/d3.v3.min.js"></script>-->
+<script src="https://d3js.org/d3-color.v1.min.js"></script>
+<script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+<script src='./static/js/article.js' type='text/javascript'></script>
+<script src='./static/js/makeLinks.js' type='text/javascript'></script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+
+<html>
+
+<head>
+  <link rel="stylesheet" href="./static/lib/css//bootstrap.min.css">
+  <link rel="stylesheet" href="./static/lib/css/keen-dashboards.css">
+  <link rel="stylesheet" href="./static/lib/css/dc.min.css">
+  <link rel="stylesheet" href="./static/lib/css/leaflet.css">
+  <link rel="stylesheet" href="/static/lib/css/custom.css">
+  <link rel="stylesheet" href="./static/lib/css//bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="./static/lib/css/styles.css" />
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"></link>
+  <link href="https://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+
+<!--- basic page needs
+   ================================================== -->
+   <meta charset="utf-8">
+  <title>CAN_Topics</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+   <!-- mobile specific metas
+   ================================================== -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <!-- CSS
+   ================================================== -->
+   <link rel="stylesheet" href="../static/lib/css/base.css">
+   <link rel="stylesheet" href="../static/lib/css/main.css">
+   <link rel="stylesheet" href="../static/lib/css/vendor.css">
+
+   <!-- script
+   ================================================== -->
+  <script src="../static/lib/js/modernizr.js"></script>
+
+   <!-- favicons
+  ================================================== -->
+  <link rel="icon" type="image/png" href="favicon.png">
+
+  <!-- header
+   ================================================== -->
+
+
+</head>
+
+<body id="top">
+
+     <header>
+
+    <div class="row">
+
+      <div class="logo">
+           <a href="{{ url_for('index') }}">CAN_Topics</a>
+        </div>
+
+      <nav id="main-nav-wrap">
+        <ul class="main-navigation">
+          <li><a href="{{ url_for('index') }}" title="">About</a></li>
+          <li><a href="{{ url_for('cool_form') }}" title="">Discover Hot Topics</a></li>
+          <li class="current"><a href="{{ url_for('comment_form') }}" title="">Discover Surounding Topics</a></li>
+        </ul>
+      </nav>
+
+      <a class="menu-toggle" href="{{ url_for('index') }}"><span>Menu</span></a>
+
+    </div>
+
+   </header> <!-- /header -->
+<section id="intro">
+
+    <div class="shadow-overlay"></div>
+
+    <div class="intro-content">
+
+  <div class="container-fluid" style="margin-top: -270px">
+
+
+    <div>
+
+      <!--left button-->
+      <div class="col-md-2">
+        <div class="chart-wrapper" style="width: 220px">
+          <div class="chart-title">
+            Article topics
+          </div>
+
+          <div class="chart-stage">
+            <table class="table">
+
+              <tbody style="height: 600px">
+                <tr>
+                  <td>
+                    <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_0.json')">Life in Canada</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_1.json')">Federal elections</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_2.json')">Canada & US relation </button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_3.json')">Persecution of Muslims</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_4.json')">Transit</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_5.json')">Toronto municipal elections</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_6.json')">Oil pipeline dispute</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_7.json')">Federal law</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_8.json')">Quebec separatism</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td><button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_9.json')">Trade exchange</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_10.json')">Canadian elections</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_11.json')">Health care</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_12.json')">Russian military intervention</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_13.json')">Violence against women</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_14.json')">US presidential election</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_15.json')">First nation</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_16.json')">Canadian politics</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_17.json')">Federal budget</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_18.json')">Nuclear deal</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td> <button class="btn btn-primary btn-block btn-xs" onclick="myFunction('data/topic_19.json')">Crime monitoring</button>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+        </div>
+      </div>
+      <!--left button-->
+
+
+      <!--set up graph div-->
+      <div class="col-md-10">
+
+        <div class="chart-wrapper">
+
+          <div class="chart-title">
+            Surrounding topics
+          </div>
+
+          <div class="chart-stage parent_div">
+
+            <!--set up surrounding topic count graph-->
+            <div class="child_div">
+
+
+                <div class="chart-stage" id="surroundings">
+                  <div>
+                  <script>
+                      makeSurroudingTopicsGraph('data/topic_0.json')
+
+                  </script>
+                  </div>
+                </div>
+
+            </div>
+            <!--set up surrounding topic count graph Done-->
+
+            <!--set up node link graph-->
+            <div id="container">
+              <svg>
+                <script>
+                  myFunction('data/topic_0.json')
+                </script>
+              </svg>
+            </div>
+            <!--set up node link graph done-->
+
+          </div>
+        </div>
+      </div>
+      <!--set up graph div-->
+
+      </div>
+    </div>
+        </div>
+
+</section>
+    <!--set up article div-->
+    <!-- <section id = "sectionArticle" style="margin-top:20px;" class="chart-stage parent_div"> -->
+    <div id="tempArticle" style="display:none">
+      <!-- <div <div > -->
+        <!-- <div class="chart-wrapper"> -->
+          <div style="margin-left:40px; height:25px; text-align:center; padding-top:15px">
+            Article Information
+          </div>
+          <hr>
+          <div class="chart-stage">
+			         <div id="temp">
+                 <div id="wrap" class="container-fluid">
+                   <div id="leftContainer">
+                     <div id="divArticle">
+                       <svg id="svgArticle"></svg>
+                  </div>
+                  <div style="clear:both">
+                    <h5 class="heading_info_2" style="width:600px;"><b><i class="fa fa-signal"></i>&nbsp;&nbsp;Comment Statistics</b></h5>
+                  </div>
+                  <div id="divTreeLayout" style="clear:both">
+                    <svg id="svgTreeLayout"></svg>
+                  </div>
+                </div>
+                <div id="rightContainer">
+                </div>
+              </div>
+<script>
+                  var bodySelection = d3.select("body")
+                  /* Main Container */
+                  var mainContainer = d3.select("#wrap")
+                    .attr("height", screen_height + 'px')
+                    .attr("width", screen.width + 'px')
+
+                  /* Left Container */
+                  var leftContainer = d3.select("#leftContainer")
+                    .attr("height", screen_height + 'px')
+                    .attr("width", (screen_width - 70) + 'px')
+                    .attr("margin-left" , '20px')
+
+                  /* Right Container */
+                  var rightContainer = d3.select("#rightContainer")
+                    .attr("height", screen_height + 'px')
+                    .attr("width", (screen_width - 20) + 'px')
+                    .attr("overflow-y", "auto")
+
+                  /* Article Information */
+                  var svgArticle = d3.select("#svgArticle")
+                    .attr("height", (screen_height / 2 - margin.top - margin.bottom - 50 )+ 'px')
+                    .attr("width", (width - 30)+ 'px')
+
+                  var svgTreeLayout = d3.select("#svgTreeLayout")
+                    .attr("height", height)
+                    .attr("width", (width - 30)+ 'px')
+                    .append("g")
+                    .attr("transform", "translate(" + margin.left * 5 + "," + - 25 + ")");
+
+                  var svgComment = rightContainer.append("div")
+                    .attr("id", "divComment")
+                    .attr("width", width + 'px')
+                    .attr("float", "left")
+                    .append("svg")
+                    .attr("id", "svgComment")
+                    .attr("height", (screen_height + 700) + 'px')
+                    .attr("width", (width - margin.left) + 'px')
+                    .attr("x", (screen_width + margin.left)+ 'px')
+                    .attr("overflow-y", "auto")
+              </script>
+            <!-- </div> -->
+            <!--article div-->
+          </div>
+        </div>
+      </div>
+    <!-- </div> -->
+    <!-- </section> -->
+    <!--set up article div Done-->
+</html>

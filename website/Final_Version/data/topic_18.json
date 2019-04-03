@@ -1,0 +1,1171 @@
+{
+ "nodes": [
+  {
+   "id": 13695594,
+   "group": 10,
+   "label": "Judge Iran's regime by its actions, not by empty words"
+  },
+  {
+   "id": 17097540,
+   "group": 10,
+   "label": "The Jewish state, and what that means"
+  },
+  {
+   "id": 18684702,
+   "group": 10,
+   "label": "The Iran you won't hear about from Ottawa"
+  },
+  {
+   "id": 19234762,
+   "group": 10,
+   "label": "It's time to demilitarize the West Bank and Gaza"
+  },
+  {
+   "id": 19668841,
+   "group": 10,
+   "label": "For Israel, self-defence is an absolute right - and an incomplete strategy"
+  },
+  {
+   "id": 19764919,
+   "group": 10,
+   "label": "Gaza's actors stick to a familiar script"
+  },
+  {
+   "id": 19842081,
+   "group": 10,
+   "label": "In Gaza, it's all about the tunnels"
+  },
+  {
+   "id": 22275374,
+   "group": 10,
+   "label": "Iran bashers display a dangerous lack of worldliness"
+  },
+  {
+   "id": 23296455,
+   "group": 10,
+   "label": "The gaping holes in Obama's Iran deal"
+  },
+  {
+   "id": 23304237,
+   "group": 10,
+   "label": "Israel will pay a price for Netanyahu's Iran obsession"
+  },
+  {
+   "id": 23320792,
+   "group": 10,
+   "label": "Israelis and Palestinians are still stuck in the post-Rabin era"
+  },
+  {
+   "id": 23804544,
+   "group": 10,
+   "label": "The Iran deal is our best possible option. Let's not spoil it"
+  },
+  {
+   "id": 23894289,
+   "group": 10,
+   "label": "Benched with the Obama Doctrine"
+  },
+  {
+   "id": 23965259,
+   "group": 10,
+   "label": "Iran's regime and IS are two sides of the same medieval coin"
+  },
+  {
+   "id": 25506733,
+   "group": 10,
+   "label": "The Iran nuclear deal was necessary - but it comes at a high price"
+  },
+  {
+   "id": 25904360,
+   "group": 10,
+   "label": "The Iran nuclear deal should be a Canadian election issue"
+  },
+  {
+   "id": 25904795,
+   "group": 10,
+   "label": "Settler extremism threatens Israel's survival"
+  },
+  {
+   "id": 29617269,
+   "group": 10,
+   "label": "Saudi arms deal: Enough with the hypocrisy"
+  },
+  {
+   "id": 32015353,
+   "group": 10,
+   "label": "Why Israel's Netanyahu is in a position of strength"
+  },
+  {
+   "id": 33448958,
+   "group": 10,
+   "label": "Ignore the political theatre, Resolution 2334 has global support"
+  },
+  {
+   "id": 33450158,
+   "group": 10,
+   "label": "Globe editorial: The end of the two-state option could kill any chance of peace for Israel"
+  },
+  {
+   "id": "9_13695594",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "1_13695594",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "7_13695594",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "9_17097540",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "4_17097540",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "0_17097540",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "7_17097540",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "5_17097540",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "9_18684702",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_18684702",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "1_18684702",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "4_18684702",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "9_19234762",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "1_19234762",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "2_19234762",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "7_19234762",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "0_19234762",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "4_19234762",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "9_19668841",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_19668841",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "0_19668841",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "2_19668841",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "1_19668841",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "9_19764919",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "4_19764919",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_19764919",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "7_19764919",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "5_19764919",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "0_19764919",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "3_19764919",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "9_19842081",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "4_19842081",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "7_19842081",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "1_19842081",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_19842081",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "3_19842081",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "2_19842081",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "9_22275374",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_22275374",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "1_22275374",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "4_22275374",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "2_22275374",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "6_22275374",
+   "group": "6",
+   "label": ""
+  },
+  {
+   "id": "3_22275374",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "9_23296455",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_23296455",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "6_23296455",
+   "group": "6",
+   "label": ""
+  },
+  {
+   "id": "2_23296455",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "3_23296455",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "9_23304237",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_23304237",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "1_23304237",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "4_23304237",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "9_23320792",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_23320792",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "1_23320792",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_23320792",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "4_23320792",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "9_23804544",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_23804544",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "4_23804544",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_23804544",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "2_23804544",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "7_23894289",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "9_23894289",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "4_23894289",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_23894289",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "5_23894289",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "2_23894289",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "9_23965259",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_23965259",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "4_23965259",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "0_23965259",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "2_23965259",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "1_23965259",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "9_25506733",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_25506733",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "4_25506733",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_25506733",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "9_25904360",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_25904360",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "1_25904360",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "4_25904360",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "2_25904360",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "9_25904795",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "1_25904795",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_25904795",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "7_25904795",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "4_25904795",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_29617269",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "9_29617269",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_29617269",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "4_29617269",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "2_29617269",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "0_29617269",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "9_32015353",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_32015353",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "0_32015353",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "5_32015353",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "1_32015353",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "4_32015353",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "9_33448958",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_33448958",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "9_33450158",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "7_33450158",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "0_33450158",
+   "group": "0",
+   "label": ""
+  }
+ ],
+ "links": [
+  {
+   "source": 13695594,
+   "target": "9_13695594",
+   "value": 1
+  },
+  {
+   "source": 13695594,
+   "target": "1_13695594",
+   "value": 1
+  },
+  {
+   "source": 13695594,
+   "target": "7_13695594",
+   "value": 1
+  },
+  {
+   "source": 17097540,
+   "target": "9_17097540",
+   "value": 1
+  },
+  {
+   "source": 17097540,
+   "target": "4_17097540",
+   "value": 1
+  },
+  {
+   "source": 17097540,
+   "target": "0_17097540",
+   "value": 1
+  },
+  {
+   "source": 17097540,
+   "target": "7_17097540",
+   "value": 1
+  },
+  {
+   "source": 17097540,
+   "target": "5_17097540",
+   "value": 1
+  },
+  {
+   "source": 18684702,
+   "target": "9_18684702",
+   "value": 1
+  },
+  {
+   "source": 18684702,
+   "target": "7_18684702",
+   "value": 1
+  },
+  {
+   "source": 18684702,
+   "target": "1_18684702",
+   "value": 1
+  },
+  {
+   "source": 18684702,
+   "target": "4_18684702",
+   "value": 1
+  },
+  {
+   "source": 19234762,
+   "target": "9_19234762",
+   "value": 1
+  },
+  {
+   "source": 19234762,
+   "target": "1_19234762",
+   "value": 1
+  },
+  {
+   "source": 19234762,
+   "target": "2_19234762",
+   "value": 1
+  },
+  {
+   "source": 19234762,
+   "target": "7_19234762",
+   "value": 1
+  },
+  {
+   "source": 19234762,
+   "target": "0_19234762",
+   "value": 1
+  },
+  {
+   "source": 19234762,
+   "target": "4_19234762",
+   "value": 1
+  },
+  {
+   "source": 19668841,
+   "target": "9_19668841",
+   "value": 1
+  },
+  {
+   "source": 19668841,
+   "target": "7_19668841",
+   "value": 1
+  },
+  {
+   "source": 19668841,
+   "target": "0_19668841",
+   "value": 1
+  },
+  {
+   "source": 19668841,
+   "target": "2_19668841",
+   "value": 1
+  },
+  {
+   "source": 19668841,
+   "target": "1_19668841",
+   "value": 1
+  },
+  {
+   "source": 19764919,
+   "target": "9_19764919",
+   "value": 1
+  },
+  {
+   "source": 19764919,
+   "target": "4_19764919",
+   "value": 1
+  },
+  {
+   "source": 19764919,
+   "target": "1_19764919",
+   "value": 1
+  },
+  {
+   "source": 19764919,
+   "target": "7_19764919",
+   "value": 1
+  },
+  {
+   "source": 19764919,
+   "target": "5_19764919",
+   "value": 1
+  },
+  {
+   "source": 19764919,
+   "target": "0_19764919",
+   "value": 1
+  },
+  {
+   "source": 19764919,
+   "target": "3_19764919",
+   "value": 1
+  },
+  {
+   "source": 19842081,
+   "target": "9_19842081",
+   "value": 1
+  },
+  {
+   "source": 19842081,
+   "target": "4_19842081",
+   "value": 1
+  },
+  {
+   "source": 19842081,
+   "target": "7_19842081",
+   "value": 1
+  },
+  {
+   "source": 19842081,
+   "target": "1_19842081",
+   "value": 1
+  },
+  {
+   "source": 19842081,
+   "target": "0_19842081",
+   "value": 1
+  },
+  {
+   "source": 19842081,
+   "target": "3_19842081",
+   "value": 1
+  },
+  {
+   "source": 19842081,
+   "target": "2_19842081",
+   "value": 1
+  },
+  {
+   "source": 22275374,
+   "target": "9_22275374",
+   "value": 1
+  },
+  {
+   "source": 22275374,
+   "target": "7_22275374",
+   "value": 1
+  },
+  {
+   "source": 22275374,
+   "target": "1_22275374",
+   "value": 1
+  },
+  {
+   "source": 22275374,
+   "target": "4_22275374",
+   "value": 1
+  },
+  {
+   "source": 22275374,
+   "target": "2_22275374",
+   "value": 1
+  },
+  {
+   "source": 22275374,
+   "target": "6_22275374",
+   "value": 1
+  },
+  {
+   "source": 22275374,
+   "target": "3_22275374",
+   "value": 1
+  },
+  {
+   "source": 23296455,
+   "target": "9_23296455",
+   "value": 1
+  },
+  {
+   "source": 23296455,
+   "target": "7_23296455",
+   "value": 1
+  },
+  {
+   "source": 23296455,
+   "target": "6_23296455",
+   "value": 1
+  },
+  {
+   "source": 23296455,
+   "target": "2_23296455",
+   "value": 1
+  },
+  {
+   "source": 23296455,
+   "target": "3_23296455",
+   "value": 1
+  },
+  {
+   "source": 23304237,
+   "target": "9_23304237",
+   "value": 1
+  },
+  {
+   "source": 23304237,
+   "target": "7_23304237",
+   "value": 1
+  },
+  {
+   "source": 23304237,
+   "target": "1_23304237",
+   "value": 1
+  },
+  {
+   "source": 23304237,
+   "target": "4_23304237",
+   "value": 1
+  },
+  {
+   "source": 23320792,
+   "target": "9_23320792",
+   "value": 1
+  },
+  {
+   "source": 23320792,
+   "target": "7_23320792",
+   "value": 1
+  },
+  {
+   "source": 23320792,
+   "target": "1_23320792",
+   "value": 1
+  },
+  {
+   "source": 23320792,
+   "target": "0_23320792",
+   "value": 1
+  },
+  {
+   "source": 23320792,
+   "target": "4_23320792",
+   "value": 1
+  },
+  {
+   "source": 23804544,
+   "target": "9_23804544",
+   "value": 1
+  },
+  {
+   "source": 23804544,
+   "target": "7_23804544",
+   "value": 1
+  },
+  {
+   "source": 23804544,
+   "target": "4_23804544",
+   "value": 1
+  },
+  {
+   "source": 23804544,
+   "target": "1_23804544",
+   "value": 1
+  },
+  {
+   "source": 23804544,
+   "target": "2_23804544",
+   "value": 1
+  },
+  {
+   "source": 23894289,
+   "target": "7_23894289",
+   "value": 1
+  },
+  {
+   "source": 23894289,
+   "target": "9_23894289",
+   "value": 1
+  },
+  {
+   "source": 23894289,
+   "target": "4_23894289",
+   "value": 1
+  },
+  {
+   "source": 23894289,
+   "target": "1_23894289",
+   "value": 1
+  },
+  {
+   "source": 23894289,
+   "target": "5_23894289",
+   "value": 1
+  },
+  {
+   "source": 23894289,
+   "target": "2_23894289",
+   "value": 1
+  },
+  {
+   "source": 23965259,
+   "target": "9_23965259",
+   "value": 1
+  },
+  {
+   "source": 23965259,
+   "target": "7_23965259",
+   "value": 1
+  },
+  {
+   "source": 23965259,
+   "target": "4_23965259",
+   "value": 1
+  },
+  {
+   "source": 23965259,
+   "target": "0_23965259",
+   "value": 1
+  },
+  {
+   "source": 23965259,
+   "target": "2_23965259",
+   "value": 1
+  },
+  {
+   "source": 23965259,
+   "target": "1_23965259",
+   "value": 1
+  },
+  {
+   "source": 25506733,
+   "target": "9_25506733",
+   "value": 1
+  },
+  {
+   "source": 25506733,
+   "target": "7_25506733",
+   "value": 1
+  },
+  {
+   "source": 25506733,
+   "target": "4_25506733",
+   "value": 1
+  },
+  {
+   "source": 25506733,
+   "target": "1_25506733",
+   "value": 1
+  },
+  {
+   "source": 25904360,
+   "target": "9_25904360",
+   "value": 1
+  },
+  {
+   "source": 25904360,
+   "target": "7_25904360",
+   "value": 1
+  },
+  {
+   "source": 25904360,
+   "target": "1_25904360",
+   "value": 1
+  },
+  {
+   "source": 25904360,
+   "target": "4_25904360",
+   "value": 1
+  },
+  {
+   "source": 25904360,
+   "target": "2_25904360",
+   "value": 1
+  },
+  {
+   "source": 25904795,
+   "target": "9_25904795",
+   "value": 1
+  },
+  {
+   "source": 25904795,
+   "target": "1_25904795",
+   "value": 1
+  },
+  {
+   "source": 25904795,
+   "target": "0_25904795",
+   "value": 1
+  },
+  {
+   "source": 25904795,
+   "target": "7_25904795",
+   "value": 1
+  },
+  {
+   "source": 25904795,
+   "target": "4_25904795",
+   "value": 1
+  },
+  {
+   "source": 29617269,
+   "target": "1_29617269",
+   "value": 1
+  },
+  {
+   "source": 29617269,
+   "target": "9_29617269",
+   "value": 1
+  },
+  {
+   "source": 29617269,
+   "target": "7_29617269",
+   "value": 1
+  },
+  {
+   "source": 29617269,
+   "target": "4_29617269",
+   "value": 1
+  },
+  {
+   "source": 29617269,
+   "target": "2_29617269",
+   "value": 1
+  },
+  {
+   "source": 29617269,
+   "target": "0_29617269",
+   "value": 1
+  },
+  {
+   "source": 32015353,
+   "target": "9_32015353",
+   "value": 1
+  },
+  {
+   "source": 32015353,
+   "target": "7_32015353",
+   "value": 1
+  },
+  {
+   "source": 32015353,
+   "target": "0_32015353",
+   "value": 1
+  },
+  {
+   "source": 32015353,
+   "target": "5_32015353",
+   "value": 1
+  },
+  {
+   "source": 32015353,
+   "target": "1_32015353",
+   "value": 1
+  },
+  {
+   "source": 32015353,
+   "target": "4_32015353",
+   "value": 1
+  },
+  {
+   "source": 33448958,
+   "target": "9_33448958",
+   "value": 1
+  },
+  {
+   "source": 33448958,
+   "target": "7_33448958",
+   "value": 1
+  },
+  {
+   "source": 33450158,
+   "target": "9_33450158",
+   "value": 1
+  },
+  {
+   "source": 33450158,
+   "target": "7_33450158",
+   "value": 1
+  },
+  {
+   "source": 33450158,
+   "target": "0_33450158",
+   "value": 1
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "nodes": [
+  {
+   "id": 12002990,
+   "group": 10,
+   "label": "If only Senator Duffy had sipped his Scotch quietly"
+  },
+  {
+   "id": 12023737,
+   "group": 10,
+   "label": "The public eye and the public trough"
+  },
+  {
+   "id": 12038373,
+   "group": 10,
+   "label": "Globe Editorial: Prime Minister needed to say more in speech to caucus"
+  },
+  {
+   "id": 12163884,
+   "group": 10,
+   "label": "It shouldn't matter where a Senator lives - that wasn't the design"
+  },
+  {
+   "id": 12445332,
+   "group": 10,
+   "label": "Senate reform, not abolition, is in the East's interests"
+  },
+  {
+   "id": 13751626,
+   "group": 10,
+   "label": "Jeffrey Simpson: When Senate 'business' and 'politics' collide"
+  },
+  {
+   "id": 13814949,
+   "group": 10,
+   "label": "Remove our diseased Senate from the body politic"
+  },
+  {
+   "id": 15316641,
+   "group": 10,
+   "label": "Could Harper do a Pierre Trudeau on the Senate?"
+  },
+  {
+   "id": 16093020,
+   "group": 10,
+   "label": "Senate ethics - what about Press Gallery ethics?"
+  },
+  {
+   "id": 16599422,
+   "group": 10,
+   "label": "One cheer for Mr. Trudeau's Senate surprise"
+  },
+  {
+   "id": 16608019,
+   "group": 10,
+   "label": "Trudeau's Senate idea fresh, brave - and worth considering"
+  },
+  {
+   "id": 18208281,
+   "group": 10,
+   "label": "Supreme Court ensures Senate will remain a political tool"
+  },
+  {
+   "id": 18297978,
+   "group": 10,
+   "label": "Supreme Court handed Harper a constitutional lesson, not a loss"
+  },
+  {
+   "id": 22382836,
+   "group": 10,
+   "label": "Our neighbour just got more dysfunctional"
+  },
+  {
+   "id": 22613411,
+   "group": 10,
+   "label": "Climate-change consensus is reached everywhere except in Washington"
+  },
+  {
+   "id": 24863562,
+   "group": 10,
+   "label": "It's time to take down the spoils system"
+  },
+  {
+   "id": 25717839,
+   "group": 10,
+   "label": "Harper's constitutional disobedience a dangerous game to play"
+  },
+  {
+   "id": 27587177,
+   "group": 10,
+   "label": "Senate reform is no reform at all, and could have unintended consequence"
+  },
+  {
+   "id": 29710275,
+   "group": 10,
+   "label": "The vindication of Mike Duffy"
+  },
+  {
+   "id": 29717623,
+   "group": 10,
+   "label": "Duffy trial: A conviction on all counts for the Senate"
+  },
+  {
+   "id": 8508794,
+   "group": 10,
+   "label": "Why would we want an elected Senate?"
+  },
+  {
+   "id": 8535391,
+   "group": 10,
+   "label": "Pamela Wallin: Wadena is my home, the Senate is my job"
+  },
+  {
+   "id": "1_12002990",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "8_12002990",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "5_12002990",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "0_12002990",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "1_12023737",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_12023737",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "8_12023737",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "1_12038373",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_12038373",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "7_12038373",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "8_12038373",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "1_12163884",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "8_12163884",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "0_12163884",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "4_12163884",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_12445332",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "4_12445332",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "0_12445332",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "1_13751626",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "8_13751626",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "0_13751626",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "9_13751626",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "5_13751626",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "1_13814949",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "9_13814949",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "0_13814949",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "1_15316641",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_15316641",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "9_15316641",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "1_16093020",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "7_16093020",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "8_16093020",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "9_16093020",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "0_16093020",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "1_16599422",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "1_16608019",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "1_18208281",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_18208281",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "9_18208281",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "1_18297978",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "9_18297978",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "3_18297978",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "0_18297978",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "1_22382836",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "7_22382836",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "4_22382836",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "5_22382836",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "9_22382836",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "0_22382836",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "5_22613411",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "7_22613411",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "9_22613411",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "2_22613411",
+   "group": "2",
+   "label": ""
+  },
+  {
+   "id": "1_22613411",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "4_22613411",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "1_24863562",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "8_24863562",
+   "group": "8",
+   "label": ""
+  },
+  {
+   "id": "0_24863562",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "9_24863562",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "4_24863562",
+   "group": "4",
+   "label": ""
+  },
+  {
+   "id": "5_24863562",
+   "group": "5",
+   "label": ""
+  },
+  {
+   "id": "1_25717839",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "9_25717839",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "0_25717839",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "1_27587177",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_27587177",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "1_29710275",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_29710275",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "7_29710275",
+   "group": "7",
+   "label": ""
+  },
+  {
+   "id": "1_29717623",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "0_29717623",
+   "group": "0",
+   "label": ""
+  },
+  {
+   "id": "3_29717623",
+   "group": "3",
+   "label": ""
+  },
+  {
+   "id": "9_29717623",
+   "group": "9",
+   "label": ""
+  },
+  {
+   "id": "1_8508794",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "1_8535391",
+   "group": "1",
+   "label": ""
+  },
+  {
+   "id": "8_8535391",
+   "group": "8",
+   "label": ""
+  }
+ ],
+ "links": [
+  {
+   "source": 12002990,
+   "target": "1_12002990",
+   "value": 1
+  },
+  {
+   "source": 12002990,
+   "target": "8_12002990",
+   "value": 1
+  },
+  {
+   "source": 12002990,
+   "target": "5_12002990",
+   "value": 1
+  },
+  {
+   "source": 12002990,
+   "target": "0_12002990",
+   "value": 1
+  },
+  {
+   "source": 12023737,
+   "target": "1_12023737",
+   "value": 1
+  },
+  {
+   "source": 12023737,
+   "target": "0_12023737",
+   "value": 1
+  },
+  {
+   "source": 12023737,
+   "target": "8_12023737",
+   "value": 1
+  },
+  {
+   "source": 12038373,
+   "target": "1_12038373",
+   "value": 1
+  },
+  {
+   "source": 12038373,
+   "target": "0_12038373",
+   "value": 1
+  },
+  {
+   "source": 12038373,
+   "target": "7_12038373",
+   "value": 1
+  },
+  {
+   "source": 12038373,
+   "target": "8_12038373",
+   "value": 1
+  },
+  {
+   "source": 12163884,
+   "target": "1_12163884",
+   "value": 1
+  },
+  {
+   "source": 12163884,
+   "target": "8_12163884",
+   "value": 1
+  },
+  {
+   "source": 12163884,
+   "target": "0_12163884",
+   "value": 1
+  },
+  {
+   "source": 12163884,
+   "target": "4_12163884",
+   "value": 1
+  },
+  {
+   "source": 12445332,
+   "target": "1_12445332",
+   "value": 1
+  },
+  {
+   "source": 12445332,
+   "target": "4_12445332",
+   "value": 1
+  },
+  {
+   "source": 12445332,
+   "target": "0_12445332",
+   "value": 1
+  },
+  {
+   "source": 13751626,
+   "target": "1_13751626",
+   "value": 1
+  },
+  {
+   "source": 13751626,
+   "target": "8_13751626",
+   "value": 1
+  },
+  {
+   "source": 13751626,
+   "target": "0_13751626",
+   "value": 1
+  },
+  {
+   "source": 13751626,
+   "target": "9_13751626",
+   "value": 1
+  },
+  {
+   "source": 13751626,
+   "target": "5_13751626",
+   "value": 1
+  },
+  {
+   "source": 13814949,
+   "target": "1_13814949",
+   "value": 1
+  },
+  {
+   "source": 13814949,
+   "target": "9_13814949",
+   "value": 1
+  },
+  {
+   "source": 13814949,
+   "target": "0_13814949",
+   "value": 1
+  },
+  {
+   "source": 15316641,
+   "target": "1_15316641",
+   "value": 1
+  },
+  {
+   "source": 15316641,
+   "target": "0_15316641",
+   "value": 1
+  },
+  {
+   "source": 15316641,
+   "target": "9_15316641",
+   "value": 1
+  },
+  {
+   "source": 16093020,
+   "target": "1_16093020",
+   "value": 1
+  },
+  {
+   "source": 16093020,
+   "target": "7_16093020",
+   "value": 1
+  },
+  {
+   "source": 16093020,
+   "target": "8_16093020",
+   "value": 1
+  },
+  {
+   "source": 16093020,
+   "target": "9_16093020",
+   "value": 1
+  },
+  {
+   "source": 16093020,
+   "target": "0_16093020",
+   "value": 1
+  },
+  {
+   "source": 16599422,
+   "target": "1_16599422",
+   "value": 1
+  },
+  {
+   "source": 16608019,
+   "target": "1_16608019",
+   "value": 1
+  },
+  {
+   "source": 18208281,
+   "target": "1_18208281",
+   "value": 1
+  },
+  {
+   "source": 18208281,
+   "target": "0_18208281",
+   "value": 1
+  },
+  {
+   "source": 18208281,
+   "target": "9_18208281",
+   "value": 1
+  },
+  {
+   "source": 18297978,
+   "target": "1_18297978",
+   "value": 1
+  },
+  {
+   "source": 18297978,
+   "target": "9_18297978",
+   "value": 1
+  },
+  {
+   "source": 18297978,
+   "target": "3_18297978",
+   "value": 1
+  },
+  {
+   "source": 18297978,
+   "target": "0_18297978",
+   "value": 1
+  },
+  {
+   "source": 22382836,
+   "target": "1_22382836",
+   "value": 1
+  },
+  {
+   "source": 22382836,
+   "target": "7_22382836",
+   "value": 1
+  },
+  {
+   "source": 22382836,
+   "target": "4_22382836",
+   "value": 1
+  },
+  {
+   "source": 22382836,
+   "target": "5_22382836",
+   "value": 1
+  },
+  {
+   "source": 22382836,
+   "target": "9_22382836",
+   "value": 1
+  },
+  {
+   "source": 22382836,
+   "target": "0_22382836",
+   "value": 1
+  },
+  {
+   "source": 22613411,
+   "target": "5_22613411",
+   "value": 1
+  },
+  {
+   "source": 22613411,
+   "target": "7_22613411",
+   "value": 1
+  },
+  {
+   "source": 22613411,
+   "target": "9_22613411",
+   "value": 1
+  },
+  {
+   "source": 22613411,
+   "target": "2_22613411",
+   "value": 1
+  },
+  {
+   "source": 22613411,
+   "target": "1_22613411",
+   "value": 1
+  },
+  {
+   "source": 22613411,
+   "target": "4_22613411",
+   "value": 1
+  },
+  {
+   "source": 24863562,
+   "target": "1_24863562",
+   "value": 1
+  },
+  {
+   "source": 24863562,
+   "target": "8_24863562",
+   "value": 1
+  },
+  {
+   "source": 24863562,
+   "target": "0_24863562",
+   "value": 1
+  },
+  {
+   "source": 24863562,
+   "target": "9_24863562",
+   "value": 1
+  },
+  {
+   "source": 24863562,
+   "target": "4_24863562",
+   "value": 1
+  },
+  {
+   "source": 24863562,
+   "target": "5_24863562",
+   "value": 1
+  },
+  {
+   "source": 25717839,
+   "target": "1_25717839",
+   "value": 1
+  },
+  {
+   "source": 25717839,
+   "target": "9_25717839",
+   "value": 1
+  },
+  {
+   "source": 25717839,
+   "target": "0_25717839",
+   "value": 1
+  },
+  {
+   "source": 27587177,
+   "target": "1_27587177",
+   "value": 1
+  },
+  {
+   "source": 27587177,
+   "target": "0_27587177",
+   "value": 1
+  },
+  {
+   "source": 29710275,
+   "target": "1_29710275",
+   "value": 1
+  },
+  {
+   "source": 29710275,
+   "target": "0_29710275",
+   "value": 1
+  },
+  {
+   "source": 29710275,
+   "target": "7_29710275",
+   "value": 1
+  },
+  {
+   "source": 29717623,
+   "target": "1_29717623",
+   "value": 1
+  },
+  {
+   "source": 29717623,
+   "target": "0_29717623",
+   "value": 1
+  },
+  {
+   "source": 29717623,
+   "target": "3_29717623",
+   "value": 1
+  },
+  {
+   "source": 29717623,
+   "target": "9_29717623",
+   "value": 1
+  },
+  {
+   "source": 8508794,
+   "target": "1_8508794",
+   "value": 1
+  },
+  {
+   "source": 8535391,
+   "target": "1_8535391",
+   "value": 1
+  },
+  {
+   "source": 8535391,
+   "target": "8_8535391",
+   "value": 1
+  }
+ ]
+}
